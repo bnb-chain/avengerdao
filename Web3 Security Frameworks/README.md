@@ -21,9 +21,10 @@ We extend our **gratitude** to the AvengerDAO members who recognized the importa
 <li>Slowmist</li>
 <li>Zokyo</li>
 <li>BlockSec</li>
-<li>Verischains</li>
-<li>Pessimistic.</li>
-<li>Beosin
+<li>Hashdit</li>
+<li>Verichains</li>
+<li>Pessimistic</li>
+<li>Beosin</li>
 </ul>
 
 ## That sounds interesting but what is the Web3 Security Framework concretely?
@@ -50,8 +51,10 @@ Here are the security framework we would like to create
 
 ## How to Contribute
 
-...
+ngerDAO and its members have created this initiative to address the existing security challenges in the Web3 space. We hope that this initiative piques your interest and encourages you to join us in promoting a safer and more secure Web3 environment.
 
-For more information about the AvengerDAO, visit our [website](https://www.avengerdao.org/)
+If you have any comments or suggestions, please feel free to create a pull request and we will respond to you as soon as possible.
+
+For more information about the AvengerDAO, visit the initiative website. [website](https://www.avengerdao.org/)
 
 [1] -Chainalysis (2023) - _The Chainalysis 2023 Crypto Crime Report._ [Online]. Available at: https://go.chainalysis.com/2023-crypto-crime-report.html (Accessed: April 20, 2023)
