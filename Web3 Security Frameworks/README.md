@@ -26,10 +26,27 @@ We extend our **gratitude** to the AvengerDAO members who recognized the importa
 <li>Beosin
 </ul>
 
+## That sounds interesting but what is the Web3 Security Framework concretely?
+
+Similar to ISO standards, our Web3 Security Framework aims to establish best practices for Web3 projects, taking into account not only technical aspects such as smart contracts, Solidity programming language, smart contract architecture risks, decentralized applications, and Decentralized Finance-related risks, but also addressing managerial elements like project processes, development lifecycle, crypto wallet management and incorporating DevSecOps processes. Additionally, we will focus on business continuity and treasury management. Our objective is to create a comprehensive set of guidelines for safeguarding various components of a crypto project.
+
+To achieve this goal, we propose a list of security frameworks that address the complex and distinct aspects involved in managing a crypto project, fostering a more secure environment for all participants.
+
+It is important to note that our aim is not to overlap with other cybersecurity initiatives, such as OWASP, but rather to complement them by focusing specifically on the unique challenges facing Web3 projects.
+
+In addition to securing project and community funds, as well as enhancing trust, these standards will enable Web3 projects to pursue a web3 security certification through AvengerDAO.
+
 ## List of Frameworks
 
+Here are the security framework we would like to create
+
 [The Smart Contract Security Framework Checklist](https://github.com/bnb-chain/avengerdao/blob/main/Web3%20Security%20Framework/Smart%20Contracts/smart_contract_checklist.md)
-...
+
+[Crypto Wallet Security Framework Checklist - Coming Soon!]()
+
+[Web3 Project Management Security Framework Checklist - Coming Soon!]()
+
+[Business Continuity Security Framework Checklist - Coming Soon!]()
 
 ## How to Contribute
 
