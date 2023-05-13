@@ -41,9 +41,11 @@ In addition to securing project and community funds, as well as enhancing trust,
 
 Here are the security framework we would like to create
 
-[The Smart Contract Security Framework Checklist](https://github.com/bnb-chain/avengerdao/blob/main/Web3%20Security%20Frameworks/smart_contract_checklist.md)
+[The Smart Contract Security Framework Checklist](https://github.com/bnb-chain/avengerdao/blob/main/Web3%20Security%20Frameworks/smart_contract_security_checklist.md)
 
 [Crypto Wallet Security Framework Checklist](https://github.com/bnb-chain/avengerdao/blob/main/Web3%20Security%20Frameworks/crypto_wallet_security_checklist.md)
+
+[Decentralized Finance Security Framework Checklist](https://github.com/bnb-chain/avengerdao/blob/main/Web3%20Security%20Frameworks/defi_security_checklist.md)
 
 [Web3 Project Management Security Framework Checklist](https://github.com/bnb-chain/avengerdao/blob/main/Web3%20Security%20Frameworks/project_management_security_checklist.md)
 
