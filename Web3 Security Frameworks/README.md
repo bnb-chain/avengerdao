@@ -25,6 +25,7 @@ We extend our **gratitude** to the AvengerDAO members who recognized the importa
 <li>Verichains</li>
 <li>Pessimistic</li>
 <li>Beosin</li>
+<li>Peckshield</li>
 </ul>
 
 ## That sounds interesting but what is the Web3 Security Framework concretely?
