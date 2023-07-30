@@ -50,3 +50,7 @@ Description:
   - Daily updated
   - Leverage this data to clustering malicious family and warn the community in early stage
 
+
+## Contact us
+
+Please submit your proposal [here](https://forms.monday.com/forms/8cc0bbbd50e856eea12e15ace1a4e62b?r=use1).
